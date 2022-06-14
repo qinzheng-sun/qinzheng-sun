@@ -18,7 +18,7 @@ function setup() {
     dataServer = new PubNub({
       subscribeKey: subKey,
       publishKey: pubKey,
-      uuid: "Roy",
+      uuid: "write your name here",
       secretKey: secretKey,
       heartbeatInterval: 0,
     });
